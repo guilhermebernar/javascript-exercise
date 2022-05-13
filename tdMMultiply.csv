@@ -1,0 +1,7 @@
+num1 = 2,num2 = 4,,
+tota=0,i=0,i<num2," total = add(total, num1)"
+0,0,true,2
+2,1,true,4
+4,2,true,6
+6,3,true,8
+8,4,false,return 8
